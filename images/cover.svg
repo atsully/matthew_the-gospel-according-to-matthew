@@ -1,14 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of The Gospel According to Matthew, by Matthew</title>
-	<style type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1400 2100"
+   id="svg3"
+   sodipodi:docname="cover.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.27904762"
+     inkscape:cx="700.59727"
+     inkscape:cy="1050"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <title
+     id="title1">The cover for the Standard Ebooks edition of The Gospel According to Matthew, by Matthew</title>
+  <style
+     type="text/css"
+     id="style1">
 		.title-box{
 			fill-opacity: .75;
 		}
 
 		text{
 			fill: #fff;
-			font-family: "League Spartan";
+			font-family: &quot;League Spartan&quot;;
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
@@ -21,9 +54,30 @@
 			font-size: 46.7840004px;
 		}
 	</style>
-	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
-	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title-small" x="700" y="1775">THE GOSPEL ACCORDING</text>
-	<text class="title-small" x="700" y="1855">TO MATTHEW</text>
-	<text class="author" x="700" y="1955">MATTHEW</text>
+  <image
+     height="2100"
+     width="1400"
+     x="0"
+     y="0"
+     xlink:href="cover.jpg"
+     id="image1" />
+  <path
+     class="title-box"
+     d="M 50,1620 1350,1620 1350,2050 50,2050 Z"
+     id="path1" />
+  <text
+     class="title-small"
+     x="700"
+     y="1775"
+     id="text1">THE GOSPEL ACCORDING</text>
+  <text
+     class="title-small"
+     x="700"
+     y="1855"
+     id="text2">TO MATTHEW</text>
+  <text
+     class="author"
+     x="700"
+     y="1955"
+     id="text3">King James Version</text>
 </svg>
